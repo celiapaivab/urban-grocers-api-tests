@@ -1,4 +1,9 @@
-# 📝 Testes de API – Urban.Grocers (Entrega e Kits)
+# Testes de API – Urban.Grocers (Entrega e Kits)
+
+![QA](https://img.shields.io/badge/Testes-API-blue)
+![Ferramenta](https://img.shields.io/badge/Postman-Test%20Execution-orange)
+![Documentação](https://img.shields.io/badge/apiDoc-Referência-informational)
+
 
 ## 📌 Sobre o Projeto
 
