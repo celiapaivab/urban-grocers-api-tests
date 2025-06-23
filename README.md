@@ -51,7 +51,7 @@ Testar e validar dois novos recursos da API do Urban.Grocers:
 
 ## 📂 Extras
 
-- ✅ [Checklist de testes – Google Sheets]([https://docs.google.com/spreadsheets/d/SEU_LINK_AQUI](https://docs.google.com/spreadsheets/d/1to5l7gcZbPaLRpjes2cyLjXu4T6rHYGv/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true))  
+- ✅ [Checklist de testes – Google Sheets](https://docs.google.com/spreadsheets/d/1to5l7gcZbPaLRpjes2cyLjXu4T6rHYGv/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
 - 🐞 [Relatórios de bugs – Jira](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S4/issues?jql=project%20%3D%20%22S4%22%20ORDER%20BY%20created%20DESC)
 
 ---
