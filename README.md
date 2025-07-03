@@ -21,7 +21,7 @@ Testar e validar dois novos recursos da API do Urban.Grocers:
 
 ---
 
-## 🔧 Ferramentas Utilizadas
+## 🔧 Tecnologias e Ferramentas
 
 - **Postman** — execução de requisições
 - **apiDoc** — referência da API
@@ -64,14 +64,14 @@ Testar e validar dois novos recursos da API do Urban.Grocers:
 
 ---
 
-## 📂 Evidências
+## 📂 Arquivos do Projeto
 
 - ✅ [Checklist de testes – Google Sheets](https://docs.google.com/spreadsheets/d/1to5l7gcZbPaLRpjes2cyLjXu4T6rHYGv/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
 - 🐞 [Relatórios de bugs – Jira](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S4/issues?jql=project%20%3D%20%22S4%22%20ORDER%20BY%20created%20DESC)
 
 ---
 
-## 🇺🇸 Project Summary (English)
+## 🇺🇸 Project Summary
 
 **Urban.Grocers API Testing** — QA project focused on manual testing of new API endpoints for **Urban.Grocers**.  
 Scope: test checklist design, execution with **Postman**, bug tracking in **Jira**, and final test report.
