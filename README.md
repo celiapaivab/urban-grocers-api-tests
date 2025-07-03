@@ -5,6 +5,7 @@
 ![Documentação](https://img.shields.io/badge/apiDoc-Referência-informational)
 ![Bug Tracking](https://img.shields.io/badge/Jira-Relatórios%20de%20Bug-orange)
 
+---
 
 ## 📌 Sobre o Projeto
 
@@ -29,7 +30,7 @@ Testar e validar dois novos recursos da API do Urban.Grocers:
 
 ---
 
-## 🚀 Como Executar
+## ▶️ Como Executar
 
 1. Abra o **Postman**.  
 2. Importe a coleção de requisições ou configure os endpoints manualmente conforme o **apiDoc**.  
