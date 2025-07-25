@@ -4,6 +4,8 @@
 ![Ferramenta](https://img.shields.io/badge/Postman-Test%20Execution-orange)
 ![Documentação](https://img.shields.io/badge/apiDoc-Referência-informational)
 ![Bug Tracking](https://img.shields.io/badge/Jira-Relatórios%20de%20Bug-orange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
+
 
 ---
 
